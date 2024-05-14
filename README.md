@@ -28,7 +28,7 @@ allowing its image and Javascript files to be served via the [Rails][]
 To install, add one of the following to your Rails project's `Gemfile`:
 
     gem 'jquery-raty-rails'                                  # Released version
-    gem 'jquery-raty-rails', github: 'bmc/jquery-raty-rails' # Bleeding edge
+    gem 'jquery-raty-rails', github: 'shoaibmalik786/jquery-raty-rails' # Bleeding edge
 
 Then, install the gem by running `bundle install`.
 
@@ -58,7 +58,7 @@ At this point, your Rails application has access to jQuery Raty. See the
 [jQuery Raty][] is copyright &copy; [Washington Botelho][].
 
 *jquery-raty-rails* copyright &copy; 2012 Brian M. Clapper and is released
-under a [BSD license](/bmc/jquery-raty-rails/blob/master/LICENSE.md).
+under a [BSD license](/shoaibmalik786/jquery-raty-rails/blob/master/LICENSE.md).
 
 [blog post]: http://rakeroutes.com/blog/write-a-gem-for-the-rails-asset-pipeline/
 [Rails]: http://rubyonrails.org/
